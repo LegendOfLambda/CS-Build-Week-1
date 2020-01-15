@@ -44,7 +44,7 @@ You may find these resources useful:
     to get more information.
 * Run the code in create_world.py on your heroku server (`heroku run python manage.py shell`)
 
-You can consider Pusher websocket integration to be a stretch goal. Your server should interact with your team's client.
+You  can consider Pusher websocket integration to be a stretch goal. Your server should interact with your team's client.
 
 #### 3. Create an interesting world on the server
 
